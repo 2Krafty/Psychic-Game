@@ -1,27 +1,27 @@
 body {
-	font-family: cursive
+	font-family: cursive;
   margin-bottom: 50px;
-    background: rgb(133, 122, 122);	
+  background: rgb(170, 159, 159);
 }
 
 h4 {
 	color:blue;
   text-align: left;
-  font-family: cursive
+  font-family: cursive;
 
 }
 
 .top h1 {
 	color: blue;
   text-align: left;
-  font-family: cursive
+  font-family: cursive;
 	
 }
 
 .box {
 	color:blue;
   margin-top: 20px;
-  font-family: cursive
+  font-family: cursive;
 }
 
 .text-center{
@@ -29,13 +29,13 @@ h4 {
 	color: blue;
 	letter-spacing: normal;
   padding-top:15px;
-  font-family: cursive
+  font-family: cursive;
 }
 
 .main-text  {
     color: blue;
-    text-align: left
-    font-family: cursive
+    text-align: left;
+    font-family: cursive;
 
 }
 
