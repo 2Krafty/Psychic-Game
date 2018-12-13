@@ -1,0 +1,43 @@
+body {
+	font-family: cursive
+  margin-bottom: 50px;
+    background: rgb(133, 122, 122);	
+}
+
+h4 {
+	color:blue;
+  text-align: left;
+  font-family: cursive
+
+}
+
+.top h1 {
+	color: blue;
+  text-align: left;
+  font-family: cursive
+	
+}
+
+.box {
+	color:blue;
+  margin-top: 20px;
+  font-family: cursive
+}
+
+.text-center{
+	text-transform: uppercase;
+	color: blue;
+	letter-spacing: normal;
+  padding-top:15px;
+  font-family: cursive
+}
+
+.main-text  {
+    color: blue;
+    text-align: left
+    font-family: cursive
+
+}
+
+
+
